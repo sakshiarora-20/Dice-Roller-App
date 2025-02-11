@@ -9,7 +9,7 @@ A simple Flutter app that simulates rolling a dice. Press the "Roll Dice" button
 ## Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/Dice-Roller-App.git
+   git clone https://github.com/sakshiarora-20/Dice-Roller-App.git
    cd Dice-Roller-App
    ```  
 2. Install dependencies:  
