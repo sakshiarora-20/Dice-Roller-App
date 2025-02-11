@@ -1,32 +1,16 @@
-# Dice-Roller-App  
+# my_app2
 
-A simple Flutter app that simulates rolling a dice. Press the "Roll Dice" button to generate a random dice face! 
-## Features  
-- Random dice rolls  
-- Smooth UI with gradient background  
-- Works on Android & iOS  
+A new Flutter project.
 
-## Setup  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/sakshiarora-20/Dice-Roller-App.git
-   cd Dice-Roller-App
-   ```  
-2. Install dependencies:  
-   ```sh
-   flutter pub get
-   ```  
-3. Run the app:  
-   ```sh
-   flutter run
-   ```  
+## Getting Started
 
-## Configuration  
-Ensure `pubspec.yaml` includes:  
-```yaml
-flutter:
-  assets:
-    - assets/img/
-```
+This project is a starting point for a Flutter application.
 
-Enjoy rolling the dice!
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
