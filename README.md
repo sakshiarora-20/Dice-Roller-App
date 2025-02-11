@@ -1,5 +1,4 @@
 # Dice-Roller-App
-# Dice Roller App
 
 A simple Flutter app to roll a dice. Click the "Roll Dice" button to generate a random dice face.
 
@@ -10,10 +9,10 @@ A simple Flutter app to roll a dice. Click the "Roll Dice" button to generate a 
 
 ## Setup
 1. Clone the repository:
-   ```sh
+   
    git clone https://github.com/yourusername/dice_app.git
    cd dice_app
-   ```
+   
 2. Install dependencies:
    ```sh
    flutter pub get
